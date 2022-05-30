@@ -1,7 +1,7 @@
 <h1>ATM Exercise</h1>
 
 <h2>Description</h2>
-This is a repo for an ATM-like exercise I did in Week 15 of the MIT Online Coding Bootcamp. First select whether you would like to withdraw or deposit money into 'your' account. In the input box that pops up after selecting withdraw or deposit, enter an amount into the box. Note: *You are unable to withdraw more than you have in 'your' account. The account will not go into the negatives!*
+This is a repo for an ATM-like exercise I did in Week 15 of the MIT Online Coding Bootcamp. First select whether you would like to withdraw or deposit money into 'your' account. In the input box that pops up after selecting withdraw or deposit, enter an amount into the box. I did some updates to this exercise including color changes, button placements, and size adjustments. Note: *You are unable to withdraw more than you have in 'your' account. The account will not go into the negatives!*
 
 <h2>Support</h2>
 For more information please email me: <b>dylanmpgh@gmail.com</b>
